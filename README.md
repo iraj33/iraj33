@@ -1,5 +1,3 @@
-<img src="">
-
 <h1 align="center">Hi 👋, I'm Iraj Oshadha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
